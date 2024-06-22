@@ -1,0 +1,6 @@
+@WebApplication2_HostAddress = http://localhost:8080
+
+GET {{WebApplication2_HostAddress}}/shirt/
+Accept: application/json
+
+###
